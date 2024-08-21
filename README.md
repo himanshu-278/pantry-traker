@@ -28,7 +28,7 @@ Pantry Tracker is a web application designed to help users efficiently manage th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/techbire/pantry-tracker.git
+    git clone https://github.com/himanshu-278/pantry-traker.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -69,7 +69,7 @@ Pantry Tracker is a web application designed to help users efficiently manage th
 
 ## Deployment
 
-This application is deployed on Vercel. Visit the live site [here](https://techbire-pantry-tracker.vercel.app/).
+This application is deployed on Vercel. Visit the live site [here](https://pantry-traker-beta.vercel.app/).
 
 ## File Structure
 
